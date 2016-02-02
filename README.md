@@ -1,4 +1,4 @@
-# GitHub organizations to follow
+# GitHub organizations with great projects to follow
 
 - [Free Code Camp](https://github.com/FreeCodeCamp)
 - [PHP Santa Catarina](https://github.com/PHPSC)
@@ -21,4 +21,14 @@
 - [GoogleChrome](https://github.com/GoogleChrome)
 - [720kb](https://github.com/720kb)
 - [expressjs](https://github.com/expressjs)
-- 
+- [Sculpin](https://github.com/sculpin)
+- [Doctrine](https://github.com/doctrine)
+- [Codacy](https://github.com/codacy)
+- [Shopify](https://github.com/Shopify)
+- [Oracle](https://github.com/oracle)
+- [Humantech Knowledge Management](https://github.com/humantech)
+- [Phpro](https://github.com/phpro)
+- [Free-time](https://github.com/free-time)
+- [Google](https://github.com/google)
+- [HospitalRun](https://github.com/HospitalRun)
+- [Mozilla](https://github.com/mozilla)
