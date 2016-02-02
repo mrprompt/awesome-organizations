@@ -1,2 +1,24 @@
-# organizations
-GitHub organizations to follow
+# GitHub organizations to follow
+
+- [Free Code Camp](https://github.com/FreeCodeCamp)
+- [PHP Santa Catarina](https://github.com/PHPSC)
+- [PHPSP](https://github.com/PHPSP)
+- [Me Salva!](https://github.com/mesalva)
+- [PuPHPet](https://github.com/puphpet)
+- [dados.gov.br](https://github.com/dadosgovbr)
+- [Amazon Web Services - Labs](https://github.com/awslabs)
+- [Parse](https://github.com/ParsePlatform)
+- [Yeoman](https://github.com/yeoman)
+- [NodeOS](https://github.com/NodeOS)
+- [Sulu](https://github.com/sulu-io)
+- [Mantis.js](https://github.com/mantisjs)
+- [LAB.Rio](https://github.com/LAB-Rio)
+- [Pagar.me](https://github.com/pagarme)
+- [Serverless](https://github.com/serverless)
+- [devbeers](https://github.com/devbeers)
+- [Coderockr](https://github.com/Coderockr)
+- [Brave Software](https://github.com/brave)
+- [GoogleChrome](https://github.com/GoogleChrome)
+- [720kb](https://github.com/720kb)
+- [expressjs](https://github.com/expressjs)
+- 
