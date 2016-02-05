@@ -65,3 +65,4 @@
 - [Sencha Labs](https://github.com/senchalabs)
 - [Adobe Systems Incorporated](https://github.com/adobe)
 - [GitHub](https://github.com/github)
+- [ContaAzul](https://github.com/ContaAzul)
