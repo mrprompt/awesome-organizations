@@ -69,3 +69,4 @@
 - [Zend Framework Campus](https://github.com/zfcampus)
 - [Datadog, Inc.](https://github.com/datadog)
 - [The White House](https://github.com/WhiteHouse)
+- [Loop Infinito](https://github.com/loopinfinito)
