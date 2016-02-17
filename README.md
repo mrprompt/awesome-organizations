@@ -72,3 +72,4 @@
 - [Loop Infinito](https://github.com/loopinfinito)
 - [FloripaJS](https://github.com/floripajs)
 - [SOLISC - Associação Software Livre Santa Catarina](https://github.com/solisc)
+- [Node.js Foundation](https://github.com/nodejs)
