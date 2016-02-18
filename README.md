@@ -73,3 +73,4 @@
 - [FloripaJS](https://github.com/floripajs)
 - [SOLISC - Associação Software Livre Santa Catarina](https://github.com/solisc)
 - [Node.js Foundation](https://github.com/nodejs)
+- [WoMakersCode](https://github.com/WoMakersCode)
