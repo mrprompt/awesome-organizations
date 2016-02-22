@@ -74,3 +74,4 @@
 - [SOLISC - Associação Software Livre Santa Catarina](https://github.com/solisc)
 - [Node.js Foundation](https://github.com/nodejs)
 - [WoMakersCode](https://github.com/WoMakersCode)
+- [Glyptodon LLC](https://github.com/glyptodon)
